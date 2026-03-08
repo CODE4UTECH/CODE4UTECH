@@ -5,7 +5,15 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Engineering+Intelligent+Digital+Systems;Building+Modern+Software+Platforms;Automation+Driven+Business+Tools;Scalable+Technology+Infrastructure&center=true&width=650&height=45&color=00F7FF">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Engineering+Intelligent+Digital+Systems;Building+Modern+Software+Platforms&center=true&width=650&height=45&color=00F7FF">
+</p>
+
+<!-- PASTE TERMINAL HERE -->
+
+## ⚡ System Boot
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=$+boot+code4utech+systems;$+initializing+engineering+environment;$+loading+automation+modules;$+connecting+cloud+infrastructure;$+deploying+intelligent+platforms;$+system+ready+✓"/>
 </p>
 
 ---
